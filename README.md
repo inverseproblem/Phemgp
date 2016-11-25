@@ -40,7 +40,6 @@ fraction=0.2):
 Header of the table obtained from Perple_X: 
 
 ```
-#!fortran
 |6.6.6
 hzmb_200_1.phm    
            2
@@ -58,7 +57,6 @@ P(bar)
 modified header:
 
 ```
-#!fortran
 |6.6.6
 hzmb_200_1.phm  
 0.2d0              !! <<=== here
