@@ -15,13 +15,11 @@ Zunino, A., J. A. D. Connolly, and A. Khan (2011), Precalculated phase equilibri
 
 Compile Phemgp using a Fortran compiler. For instance, with the GNU Fortran compiler, do:
 ```
-#!bash
 gfortran phemgp_0.5.f90 -o phemgp.x
 ```
 
 On Linux or MacOS run it with:
 ```
-#!bash
 ./phemgp.x
 ```
 
